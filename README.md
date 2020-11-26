@@ -20,6 +20,7 @@ The repository includes:
 
 ![Put file like this](assets/2.PNG)
 
+2. download dataset here : https://drive.google.com/file/d/1USBWv96I3H5RfQ1lUYbwDgqgULJif3Ia/view?usp=sharing
 
 # Getting Started
 * convert XML to csv
