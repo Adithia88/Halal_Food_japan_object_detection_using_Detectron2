@@ -1,4 +1,4 @@
-# Grape-leaf-disease-object-detection-using-detectron-2
+# Halal_Food_japan_Object_detection
 
 ## im using google collab cause, easy to install enviroment
 
@@ -38,7 +38,7 @@ just execute the code
 # Step to train  with your own data
 
 ## 1. train own dataset
-This example will explain which part u must change to train your own dataset. open Detectron2_custom_object_detection.ipynb fi
+This example will explain which part u must change to train your own dataset. open Detectron2_custom_object_detection.ipynb 
 
 First we must register out dataset and define the label name
 
