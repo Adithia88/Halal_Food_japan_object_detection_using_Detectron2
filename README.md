@@ -32,9 +32,6 @@ The repository includes:
 ## 1. Prepare dataset and make sure the path 
 open code xml_to_csv.py (just make sure the path right)
 
-## 2.convert json to COCO 
-just execute the code
-
 
 # Step to train  with your own data
 
